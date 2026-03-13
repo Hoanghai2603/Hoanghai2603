@@ -6,11 +6,11 @@
 
 🔭 I’m currently working as a Front-end Engineer.
 
-🎓 Graduated from HUFLIT University with Bachelor's degree Software Engineering (GPA: 3.1).
+🎓 Graduated from HUFLIT University with a Bachelor's degree in Software Engineering (GPA: 3.1).
 
 🌱 I’m currently exploring: Advanced State Management (Zustand), Blockchain Integrations, and System Architecture.
 
-📫 How to reach me: nghoanghai260300.it@gmail.com. || [My Portfolio](https://nghhai-cv-portfolio.vercel.app/en)
+📫 How to reach me: nghoanghai260300.it@gmail.com | [My Portfolio](https://nghhai-cv-portfolio.vercel.app/en)
 
 📄 Know about my experiences: [My resume](https://drive.google.com/file/d/17g-POaAKzAUhG7QY5vuVlCbq9z_ZQvAr/view?usp=drive_link)
 
