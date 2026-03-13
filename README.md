@@ -10,11 +10,11 @@
 
 🌱 I’m currently exploring: Advanced State Management (Zustand), Blockchain Integrations, and System Architecture.
 
-📫 How to reach me: nghoanghai260300.it@gmail.com.
+📫 How to reach me: nghoanghai260300.it@gmail.com. || [My Portfolio](https://nghhai-cv-portfolio.vercel.app/en)
 
-📄 Know about my experiences: [My resume](https://drive.google.com/file/d/1uNI-GFSqp5resu92zWMVavxPeld1cfXZ/view?usp=drive_link)
+📄 Know about my experiences: [My resume](https://drive.google.com/file/d/17g-POaAKzAUhG7QY5vuVlCbq9z_ZQvAr/view?usp=drive_link)
 
-⚡ Fun fact: I like caffeine ☕️, I have more energy for sense of humor 🤣, 📺📼 and I love building cool things! 📓💻
+⚡ Fun fact: I like caffeine ☕️, I have more energy for a sense of humor 🤣, 📺📼, and I love building cool things! 📓💻
 
 <p align="left">
 </p>
